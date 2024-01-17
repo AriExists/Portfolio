@@ -1,11 +1,11 @@
 function pageChange(page){
     switch (page) {
         case 0:
-            window.location.replace("https://ariexists.github.io/index.html");
+            window.location.replace("https://ariexists.github.io/Portfolio");
             break;
         
         case 1:
-        window.location.replace("https://ariexists.github.io/Projects.html");
+        window.location.replace("https://ariexists.github.io/Portfolio/Projects");
             break;
         default:
             break;
